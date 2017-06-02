@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background-color: #9B9B9B;
+  color: white;
+}
+
+header{
+  text-align: center;
+}
+
+.searchbox{
+  margin: auto;
+  margin-top: 10%;
+  font-size: 20px;
+  background-color: grey;
+  display: block;
+  width: 33%;
+  border: 3px solid black;
+  padding: 10px;
+}
+
+footer{
+  left: 0;
+  right: 0;
+  position: fixed;
+  bottom: 0;
+}
+section.a {
+  text-decoration: none;
+  font-size: 20px;
+  color: lightblue;
+}
